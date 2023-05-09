@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>De 4 seizoenen</title>
+</head>
+<body>
+   <h1>De vier seizoenen</h1> 
+   <h2>Lente</h2>
+   <h3>Wat is de warmste lente maand?</h3>
+   <p>de warmste wintermaand was mei</p>
+   <h2>Zomer</h2>
+   <h3>De warmterecords van de afgelopen jaren</h3>
+   <h4>2019</h4>
+   <p>in juli 2019 was het uitzonderlijk warm</p>
+   <h2>Herfst</h4>
+   <h2>Winter</h5>
+</body>
+</html>
